@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2020/07/15/bachelors-software-engineer.jpg"
 layout: landing-page
 heading: 2Pirad - Home
 partners:
@@ -16,7 +16,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: ''
 textline: |
   Belkirk College of Engineering
 
